@@ -9,3 +9,7 @@ https://docs.microsoft.com/pl-pl/azure/azure-resource-manager/management/overvie
 
 # Azure Resource Inventory Github Repo
 https://github.com/azureinventory/ARI
+
+# How to query Azure resources using the Azure CLI
+https://techcommunity.microsoft.com/t5/itops-talk-blog/how-to-query-azure-resources-using-the-azure-cli/ba-p/360147
+
